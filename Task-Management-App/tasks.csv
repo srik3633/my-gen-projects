@@ -1,0 +1,5 @@
+id,task,priority,description,created_date,assignee,opened_date,status,completion_date,category,tags
+1ebcb162-5c30-4842-8558-ce581ee543ae,Task 1,Low,Task 1 Description,2025-07-28T14:01:26.756891,Srikrishna,26/07/2025,In Progress,,dev,rtb
+c6ed76f7-5168-4aa7-9923-ce8cfc10c9dd,Task 2,Medium,Task 2 Description,2025-07-28T14:01:26.756891,Srikrishna,27/07/2025,On Hold,,dev,rtb
+43c25b24-2d5f-4a70-b96a-5e3f99ac471e,Task 3,High,Task 3 Description,2025-07-28T14:01:26.756891,Srikrishna,28/07/2025,In Progress,,qe,rtb
+21e44df3-8abf-43d9-800b-afd66de6b903,Task 4,Critical,Task 4 Description,2025-07-28T09:20:11.527Z,Srikrishna,29/07/2025,Completed,29/07/2025,prod,hotfix
